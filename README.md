@@ -1,8 +1,10 @@
 <!-- hide -->
 # Hello World with Vanilla JS
+ <small>🇪🇸 [Spanish version](./README.es.md).</small>
 
-> 🇪🇸 [Spanish version of this readme is available](./README.es.md).
+> ⚠️ This template has been deprecated, and it's not receiving any more maintenance. [Please use this one instead](https://github.com/4GeeksAcademy/vanillajs-hello-vite).
 <!-- endhide -->
+
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template using 4Geeks' [One-Click Coding](https://s.4geeks.com/start?repo=https://github.com/4GeeksAcademy/vanillajs-hello) or locally on your computer.
 
 ## Before you begin
